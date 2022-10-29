@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Rathaur</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web Development from India</h3>
 
 - 🌱 I’m currently learning **React JS**
 
